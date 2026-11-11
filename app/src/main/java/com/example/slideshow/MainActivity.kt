@@ -29,11 +29,11 @@ private val slides = listOf(
     Slide(R.drawable.pic3, "karma and sandy in sweaters"),
     Slide(R.drawable.pic4, "Comfy sandy"),
     Slide(R.drawable.pic5, "Comfy sandy and karma"),
-    Slide(R.drawable.pic6, "Caption six"),
-    Slide(R.drawable.pic7, "Caption seven"),
-    Slide(R.drawable.pic8, "Caption eight"),
-    Slide(R.drawable.pic9, "Caption nine"),
-    Slide(R.drawable.pic10, "Caption ten")
+    Slide(R.drawable.pic6, "Trust No One"),
+   Slide(R.drawable.pic7, "the Great Outdoors"),
+   Slide(R.drawable.pic8, "Sunny Day"),
+   Slide(R.drawable.pic9, "Baby Ty"),
+   Slide(R.drawable.pic10, "Great Time")
 )
 
 class MainActivity : ComponentActivity() {
